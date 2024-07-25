@@ -1,0 +1,15 @@
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\bin\Debug\net8.0\ExercicioFixacao1.exe
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\bin\Debug\net8.0\ExercicioFixacao1.deps.json
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\bin\Debug\net8.0\ExercicioFixacao1.runtimeconfig.json
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\bin\Debug\net8.0\ExercicioFixacao1.dll
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\bin\Debug\net8.0\ExercicioFixacao1.pdb
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\obj\Debug\net8.0\ExercicioFixacao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\obj\Debug\net8.0\ExercicioFixacao1.AssemblyInfoInputs.cache
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\obj\Debug\net8.0\ExercicioFixacao1.AssemblyInfo.cs
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\obj\Debug\net8.0\ExercicioFixacao1.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\obj\Debug\net8.0\ExercicioFixacao1.sourcelink.json
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\obj\Debug\net8.0\ExercicioFixacao1.dll
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\obj\Debug\net8.0\refint\ExercicioFixacao1.dll
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\obj\Debug\net8.0\ExercicioFixacao1.pdb
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\obj\Debug\net8.0\ExercicioFixacao1.genruntimeconfig.cache
+C:\Users\Angela\Desktop\git\my-learning\CsharpCompleto\ExercicioFixacao1\obj\Debug\net8.0\ref\ExercicioFixacao1.dll
