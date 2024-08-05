@@ -24,38 +24,34 @@ namespace ConversaoMoedas
             Console.WriteLine(menu);
             string menuOpcao = Console.ReadLine();
             int opcao = int.Parse(menuOpcao);
-            while (opcao == 1)
-            {
-                double conversaoDolar = valor / valorDolar;
-                string dolarConvertido = conversaoDolar.ToString("F2", CultureInfo.InvariantCulture);
-                Console.WriteLine("$" + dolarConvertido);
-                break;
-            }
 
-            while (opcao == 2)
+            switch (opcao)
             {
-                double conversaoEuro = valor / valorEuro;
-                string euroConvertido = conversaoEuro.ToString("F2");
-                Console.WriteLine(euroConvertido + "€");
-                break;
-            }
+                case 1:
 
-            while (opcao == 3)
-            {
-                double conversaoIene = valor / valorIene;
-                string ieneConvertido = conversaoIene.ToString("F2", CultureInfo.InvariantCulture);
-                Console.WriteLine("¥ " + ieneConvertido);
-                break;
-            }
+                    double conversaoDolar = valor / valorDolar;
+                    string dolarConvertido = conversaoDolar.ToString("F2", CultureInfo.InvariantCulture);
+                    Console.WriteLine("$" + dolarConvertido);
 
-            while (opcao == 4)
-            {
-                double conversaoLibra = valor / valorLibra;
-                string libraConvertido = conversaoLibra.ToString("F2", CultureInfo.InvariantCulture);
-                Console.WriteLine("£" + libraConvertido);
-                break;
-            }
+                case 2:
 
+                    double conversaoEuro = valor / valorEuro;
+                    string euroConvertido = conversaoEuro.ToString("F2");
+                    Console.WriteLine(euroConvertido + "€");
+
+                case 3:
+
+                    double conversaoIene = valor / valorIene;
+                    string ieneConvertido = conversaoIene.ToString("F2", CultureInfo.InvariantCulture);
+                    Console.WriteLine("¥ " + ieneConvertido);
+
+                case 4:
+
+                    double conversaoLibra = valor / valorLibra;
+                    string libraConvertido = conversaoLibra.ToString("F2", CultureInfo.InvariantCulture);
+                    Console.WriteLine("£" + libraConvertido);
+            }
+ 
         }
     }
 }

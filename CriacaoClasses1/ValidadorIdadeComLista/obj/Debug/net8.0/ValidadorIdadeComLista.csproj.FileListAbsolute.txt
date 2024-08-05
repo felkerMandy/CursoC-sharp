@@ -1,0 +1,15 @@
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\bin\Debug\net8.0\ValidadorIdadeComLista.exe
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\bin\Debug\net8.0\ValidadorIdadeComLista.deps.json
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\bin\Debug\net8.0\ValidadorIdadeComLista.runtimeconfig.json
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\bin\Debug\net8.0\ValidadorIdadeComLista.dll
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\bin\Debug\net8.0\ValidadorIdadeComLista.pdb
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\obj\Debug\net8.0\ValidadorIdadeComLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\obj\Debug\net8.0\ValidadorIdadeComLista.AssemblyInfoInputs.cache
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\obj\Debug\net8.0\ValidadorIdadeComLista.AssemblyInfo.cs
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\obj\Debug\net8.0\ValidadorIdadeComLista.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\obj\Debug\net8.0\ValidadorIdadeComLista.sourcelink.json
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\obj\Debug\net8.0\ValidadorIdadeComLista.dll
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\obj\Debug\net8.0\refint\ValidadorIdadeComLista.dll
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\obj\Debug\net8.0\ValidadorIdadeComLista.pdb
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\obj\Debug\net8.0\ValidadorIdadeComLista.genruntimeconfig.cache
+C:\Users\Angela\Desktop\git\CsharpCompleto\CriacaoClasses1\ValidadorIdadeComLista\obj\Debug\net8.0\ref\ValidadorIdadeComLista.dll
